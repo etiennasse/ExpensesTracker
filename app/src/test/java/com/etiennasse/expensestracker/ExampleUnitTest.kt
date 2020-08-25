@@ -1,4 +1,4 @@
-package com.etiennasse.expensetracker
+package com.etiennasse.expensestracker
 
 import org.junit.Test
 
